@@ -1,4 +1,4 @@
-# Project
+# DataBase management 
 import psycopg2
 
 from tabulate import tabulate
